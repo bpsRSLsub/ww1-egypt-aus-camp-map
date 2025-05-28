@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mena Camp",
+    "lat": 29.996,
+    "lng": 31.145,
+    "duration": "Dec 1914 – Apr 1915",
+    "corps": ["1st Division", "2nd Division"],
+    "images": ["images/camp-mena-1.jpg", "images/camp-mena-2.jpg"],
+    "icon": "tent"
+  },
+  {
+    "name": "Abbassia Camp",
+    "lat": 30.063,
+    "lng": 31.287,
+    "duration": "1914 – 1916",
+    "corps": ["Australian Army Medical Corps"],
+    "images": ["images/camp-mena-3.jpg"],
+    "icon": "medical"
+  }
+]
