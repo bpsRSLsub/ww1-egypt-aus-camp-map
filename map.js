@@ -6,5 +6,3 @@ const map = new mapboxgl.Map({
     center: [31.2357, 30.0444], // Cairo coordinates
     zoom: 6.5
 });
-
-map.addControl(new mapboxgl.NavigationControl());
